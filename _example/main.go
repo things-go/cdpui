@@ -20,10 +20,10 @@ func main() {
 	}()
 	time.Sleep(time.Millisecond * 5)
 	ui.Run()
-	go func() {
-		time.Sleep(time.Second * 15)
-		ui.Close()
-	}()
+	// go func() {
+	// 	time.Sleep(time.Second * 15)
+	// 	ui.Close()
+	// }()
 	<-ui.Wait()
 }
 
@@ -33,8 +33,10 @@ const indexHTML = `<!doctype html>
   <title>example</title>
 </head>
 <body>
-  <div id="box3">
+  <div>
 	<input id="input1" type="submit" value="dian">
+  </div>
+  <div id="box3">
 	<textarea id="textarea1" style="width:500px;height:400px">textarea</textarea><br><br>
 	<input id="input2" type="submit" value="Next">
 	<select id="select1">
