@@ -13,6 +13,7 @@ only support headless_shell,chrome,chromium
 
 ## example 
 
+[embedmd]:# (_example/main.go go)
 ```go
 package main
 
@@ -64,5 +65,4 @@ const indexHTML = `<!doctype html>
   </div>
 </body>
 </html>`
-
 ```
