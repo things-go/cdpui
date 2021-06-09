@@ -1,4 +1,4 @@
-module github.com/thinkgos/cdpui
+module github.com/things-go/cdpui
 
 go 1.15
 

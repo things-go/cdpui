@@ -2,14 +2,14 @@
 
 only support headless_shell,chrome,chromium
 
-[![GoDoc](https://godoc.org/github.com/thinkgos/cdpui?status.svg)](https://godoc.org/github.com/thinkgos/cdpui)
-[![Go.Dev reference](https://img.shields.io/badge/go.dev-reference-blue?logo=go&logoColor=white)](https://pkg.go.dev/github.com/thinkgos/cdpui?tab=doc)
-[![Build Status](https://www.travis-ci.org/thinkgos/cdpui.svg?branch=master)](https://www.travis-ci.org/thinkgos/cdpui)
-[![codecov](https://codecov.io/gh/thinkgos/cdpui/branch/master/graph/badge.svg)](https://codecov.io/gh/thinkgos/cdpui)
-![Action Status](https://github.com/thinkgos/cdpui/workflows/Go/badge.svg)
-[![Go Report Card](https://goreportcard.com/badge/github.com/thinkgos/cdpui)](https://goreportcard.com/report/github.com/thinkgos/cdpui)
-[![License](https://img.shields.io/github/license/thinkgos/cdpui)](https://github.com/thinkgos/cdpui/raw/master/LICENSE)
-[![Tag](https://img.shields.io/github/v/tag/thinkgos/cdpui)](https://github.com/thinkgos/cdpui/tags)
+[![GoDoc](https://godoc.org/github.com/things-go/cdpui?status.svg)](https://godoc.org/github.com/things-go/cdpui)
+[![Go.Dev reference](https://img.shields.io/badge/go.dev-reference-blue?logo=go&logoColor=white)](https://pkg.go.dev/github.com/things-go/cdpui?tab=doc)
+[![Build Status](https://www.travis-ci.org/things-go/cdpui.svg?branch=master)](https://www.travis-ci.org/things-go/cdpui)
+[![codecov](https://codecov.io/gh/things-go/cdpui/branch/master/graph/badge.svg)](https://codecov.io/gh/things-go/cdpui)
+![Action Status](https://github.com/things-go/cdpui/workflows/Go/badge.svg)
+[![Go Report Card](https://goreportcard.com/badge/github.com/things-go/cdpui)](https://goreportcard.com/report/github.com/things-go/cdpui)
+[![License](https://img.shields.io/github/license/things-go/cdpui)](https://github.com/things-go/cdpui/raw/master/LICENSE)
+[![Tag](https://img.shields.io/github/v/tag/things-go/cdpui)](https://github.com/things-go/cdpui/tags)
 
 ## example 
 
@@ -22,7 +22,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/thinkgos/cdpui"
+	"github.com/things-go/cdpui"
 )
 
 func main() {
