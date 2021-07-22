@@ -4,7 +4,6 @@ only support headless_shell,chrome,chromium
 
 [![GoDoc](https://godoc.org/github.com/things-go/cdpui?status.svg)](https://godoc.org/github.com/things-go/cdpui)
 [![Go.Dev reference](https://img.shields.io/badge/go.dev-reference-blue?logo=go&logoColor=white)](https://pkg.go.dev/github.com/things-go/cdpui?tab=doc)
-[![Build Status](https://www.travis-ci.com/things-go/cdpui.svg?branch=main)](https://www.travis-ci.com/things-go/cdpui)
 [![codecov](https://codecov.io/gh/things-go/cdpui/branch/main/graph/badge.svg)](https://codecov.io/gh/things-go/cdpui)
 ![Action Status](https://github.com/things-go/cdpui/workflows/Go/badge.svg)
 [![Go Report Card](https://goreportcard.com/badge/github.com/things-go/cdpui)](https://goreportcard.com/report/github.com/things-go/cdpui)
