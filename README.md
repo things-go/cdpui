@@ -7,7 +7,7 @@ only support headless_shell,chrome,chromium
 [![codecov](https://codecov.io/gh/things-go/cdpui/branch/main/graph/badge.svg)](https://codecov.io/gh/things-go/cdpui)
 ![Action Status](https://github.com/things-go/cdpui/workflows/Go/badge.svg)
 [![Go Report Card](https://goreportcard.com/badge/github.com/things-go/cdpui)](https://goreportcard.com/report/github.com/things-go/cdpui)
-[![License](https://img.shields.io/github/license/things-go/cdpui)](https://github.com/things-go/cdpui/raw/master/LICENSE)
+[![License](https://img.shields.io/github/license/things-go/cdpui)](https://github.com/things-go/cdpui/raw/main/LICENSE)
 [![Tag](https://img.shields.io/github/v/tag/things-go/cdpui)](https://github.com/things-go/cdpui/tags)
 
 ## example 
